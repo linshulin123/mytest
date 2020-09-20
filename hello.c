@@ -4,4 +4,5 @@ int main
   printf("hello mybaby");
   printf("hello myself");
   printf("love you");
+  printf("love me");
 }
